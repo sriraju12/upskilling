@@ -1,0 +1,56 @@
+.background-color{
+    background-color: aquamarine;
+    text-align: center;
+    height: 500px;
+    padding-top: 250px;
+}
+.button-color{
+    background-color: blue;
+    color: black;
+    height: 50px;
+    width: 100px;
+}
+.Increment{
+    background-color: green;
+    height: 30px;
+    padding: 5px;
+}
+.Decrement{
+    background-color: red;
+    height: 30px;
+    padding: 5px;
+}
+.Count-color{
+    background-color: antiquewhite;
+    height: 440px;
+    width: 350px;
+    padding-top: 150px;
+    padding-left: 500px;
+    padding-right: 400px;
+   
+   
+}
+
+.form-color{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-top: 250px;
+    height: 350px;
+}
+
+.button-col{
+    color: black;
+    background-color: green;
+}
+.page{
+    background-color: rgb(203, 234, 167);
+    padding-top: 200px;
+    height: 350px;
+}
+.task-manager{
+    background-color: rgba(148, 247, 145, 0.658);
+    height: 600px;
+}
+#display{
+    color: rgb(176, 12, 236);
+}

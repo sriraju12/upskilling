@@ -1,0 +1,20 @@
+.table-design{
+    background-color: bisque;
+    padding-left: 350px;
+    text-align: center;
+    border: 2px solid black;
+    height: 550px;
+}
+
+.table-structure{
+    background-color: rgb(173,141,190);
+    height: 550px;
+    padding-left: 250px;
+    border: 2px solid black;
+}
+.table1-structure{
+    background-color: antiquewhite;
+    padding-top: 5px;
+    height: 550px;
+    border: 2px solid black;
+}
